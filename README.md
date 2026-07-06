@@ -26,4 +26,4 @@ The Weather Forecast App demonstrates several important front-end web developmen
 
 Overall, the Weather Forecast App is a practical and useful application that provides reliable weather information in an easy-to-understand format. It showcases the effective integration of HTML, CSS, JavaScript, and external web APIs to create a dynamic and responsive web application. The project is suitable for students, developers, and anyone interested in learning front-end web development while building a real-world application. It also serves as an excellent project for academic submissions, personal portfolios, and software development practice because it combines functionality, user experience, and modern web design principles into a single application.
 
-OUTPUT:
+OUTPUT:<img width="1237" height="743" alt="Image" src="https://github.com/user-attachments/assets/52d6e6c4-3e9b-4486-b2c7-a5f30c5b44ba" />
